@@ -1,0 +1,42 @@
+h2 {
+    color: blueviolet;
+    font-style: italic;
+    margin-top: 0;
+  }
+  .obraz_detail {
+    display: flex;
+    padding: 30px 30px;
+  }
+  .obraz_foto {
+    max-width: 48%;
+    height: auto;
+  }
+  .text {
+    padding: 10px 30px;
+  }
+  
+  .obraz_popis {
+    text-align: justify;
+  }
+  
+  .obraz_rozmery,
+  .obraz_medium,
+  .obraz_popis {
+    padding-top: 20px;
+  }
+  
+  .obraz_cena {
+    padding-top: 20px;
+    padding-bottom: 40px;
+  }
+  
+  #btn {
+    border: none;
+    padding: 10px 15px;
+    border-radius: 3%;
+    text-decoration: none;
+    outline: 2px solid grey;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+  }

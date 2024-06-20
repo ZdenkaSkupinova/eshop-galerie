@@ -1,0 +1,41 @@
+.domovska_stranka {
+    margin-left: 20px ;
+   }
+   
+   h1 {
+   color: blueviolet;
+   font-style: italic;
+   text-align: center;
+   padding-bottom: 20px;
+   }
+   
+   .atelier_foto {
+     width: 100%;
+     height: auto;
+   }
+   
+   .atelier_bio {
+     padding:20px 0 20px 0;
+   }
+   
+   .atelier_novinky {
+     color: magenta;
+     font-size: 25px;
+     font-weight: bold;
+     text-align: center; 
+   }
+   
+   a {
+     text-decoration: none;
+     color: blueviolet;
+   }
+   .obraz_nazev {
+     font-size: 20px;
+     font-weight: bold;
+     text-align: center;
+     margin: 10px 240px;
+     padding: 10px 20px;
+     background-color: rgb(252, 236, 238);
+     border-radius: 3%;
+   }
+   
